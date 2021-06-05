@@ -1,6 +1,7 @@
-# portfolio
+# Portfolio
 
-My First Portfolio App
+Hello Guys!
+Recently I started learning FLutter and I want to make an app, so i made My First Portfolio App(version 1.0).
 
 ## Getting Started
 
