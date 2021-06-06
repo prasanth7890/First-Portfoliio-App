@@ -16,5 +16,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="Screenshot_1622921789.png" width="500" height="800"> <img src="Screenshot_1622921794.png" width="500" height="800">
+<img src="Screenshot_1622921789.png" width="400" height="800"> <img src="Screenshot_1622921794.png" width="400" height="800">
 
